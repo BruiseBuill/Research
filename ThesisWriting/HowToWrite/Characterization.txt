@@ -1,0 +1,12 @@
+0001
+XPS+ Tauc plot+ GIWAXS+ SEM+ JV+ EQE+ MPPT+ PL+ TRPL+ Voc versus light intensity+ Mott-Schottky+ SCLC+ PLmapping+ Stability
+
+
+0002
+Tauc plot+ SEM+ TRPL+ XRD+ AFM+ ToF-SIMS+ NRM+ IR+ UPS+ JV+ EQE+ ContinuousMPPT+ Nyquist+  Mott–Schottky
+
+0003
+uv-vis+ NRM+ XPS+ FTIR+ situ uv-vis+ situ XRD+ SEM+ SEM statics+ GIWAXS+ KPFM+ XRD+ PL+ TRPL+  Mott–Schottky+ dark JV+ EQE+ EIS+ Voc versus light intensity+ ContinuousMPPT
+
+0005
+XPS+ UPS+ AFM+ KPFM+ PL+ TRPL+ Mul JV+ MPPT+ Box statics+ NMR
