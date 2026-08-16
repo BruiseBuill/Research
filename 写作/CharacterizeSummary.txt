@@ -1,0 +1,44 @@
+DoubleSAM0, EES, 2023
+Me-4PACz填补2PACz缺陷, 2PACz 在 ITO 表面的弱吸附能力, 埋藏界面处的DMSO减少
+
+DoubleSAM1, AFM, 2024
+首先沉积主要SAM组分以锚定在基底上，从而消除与第二组分的竞争，电荷选择。随后，沉积具有强膦酸锚定基团的第二组分以填充空隙，界面修补
+Me-4PACz+Br-乙烷膦酸,可能是由于 EPA 的空间位阻最小
+
+DoubleSAM2,AFM,2026
+DoubleSAM钝化空位缺陷、优化能级排列以及释放晶格应变
+还制备了采用MeO-4PADCB/Me-4PACz反向双层结构（R-BL-SAM）和 由Me-4PACz和MeO-4PADCB混合物组成的单层结构（co SAM）的最佳器件
+DFT,  contact angle (Smaller), UPS, KPFM (CPD), XPS, FTIR, XRD, GIWAXS, situ-PL
+
+DoubleSAM3,AMI,2026
+验证 CbzBF/CbzBT 双层作为空穴传输层的普适性，我们对带隙分别为 1.65、1.72 和 1.75 eV
+CbzBF界面和能级调节，CbzBT缺陷钝化
+XPS, UPS, contact angle (bigger), PL, 
+
+
+DoubleSAM HZY,
+used a range of different materials for the SAM layer
+4PADCB界面钝化和能级调控，Ph-4PACz负责填补4PADCB造成的空间空隙
+
+
+DoubleSAM-Same, JACS, 2025
+SAM包含多层和不同吸附模式
+DFT Calculation，XPS atom ratio, XPS In shift, CV molecule density, contact angle(hydrophobic surface after solvent exposure that would hinder the uniform wetting of
+the perovskite precursor solution),  SEM grain size,fracture energy (Gc) measurements（sandwich double-cantilever beam delamination method）
+
+DoubleSAM-Same2, NC, 2024
+在钙钛矿成核阶段主动控制卤素分布
+Double-layer 2PACz,两个分子头部carbazole之间结合,顶部磷酸基暴露,成为均匀卤素相钙钛矿成核位点,自下而上的模板结晶,钙钛矿与电荷传输层之间高效的载流子提取
+GIWAXS, Depth-profiling XPS, DFT, In-situ LSCM(laser scanning confocal microscope), EDS, TEM, KPFM (CPD), UPS, PL, TAS, GIXRD
+
+DoubleSAM and the second co-deposited with PVK, Journal of Energy Chemistry, 2025
+MeO-2PACz, DMAcPA in PVK
+填补SAM空洞, 能级匹配, 复合, 应力
+
+
+
+
+
+
+
+
